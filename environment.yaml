@@ -1,0 +1,6 @@
+name: turnover
+dependencies:
+  - python=3.10
+  - openpyxl
+channels:
+  - conda-forge
